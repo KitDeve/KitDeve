@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @KitDeve
+- Aspiring developer with a keen interest in AI and Natural Language Processing (NLP). I'm excited about learning how to build AI models and develop chatbots for diverse purposes. Open to discovering new fields in tech, including neural networks and beyond. Just starting my coding journey and eager to grow and contribute.
